@@ -2,6 +2,7 @@ Create a new simple Angular 2+ application.
 This application should include two pages 
  
  a. Page one - A search input field and a table with collections for farmers. 
+ 
  b. Page two - A chart page showing the collections over a period of time.
 
 To reduce load on the API, the front-end should wait for the user to stop typing before making an API request.
