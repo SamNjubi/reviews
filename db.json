@@ -8,55 +8,55 @@
     },
     {
       "collectionCode": "AA13134BA",
-      "patient": "Matthew Davis",
+      "farmer": "Matthew Davis",
       "collectionSize": "16",
       "collectionDate": "2023-03-05T15:19:53"
     },
     {
       "collectionCode": "A12B34C1CC",
-      "patient": "Brittney Perry",
+      "farmer": "Brittney Perry",
       "collectionSize": "34",
       "collectionDate": "2023-03-01T18:19:53"
     },
     {
       "collectionCode": "A12B12AAA",
-      "patient": "Frank Hudson",
+      "farmer": "Frank Hudson",
       "collectionSize": "65",
       "collectionDate": "2023-03-31T07:19:53"
     },
     {
       "collectionCode": "AAB123BB",
-      "patient": "Jeffery Salazar",
+      "farmer": "Jeffery Salazar",
       "collectionSize": "100",
       "collectionDate": "2023-03-31T07:19:53"
     },
     {
       "collectionCode": "ABB1121BA",
-      "patient": "Andres Hicks",
+      "farmer": "Andres Hicks",
       "collectionSize": "84",
       "collectionDate": "2021-06-31T07:19:53"
     },
     {
       "collectionCode": "222BBAA",
-      "patient": "Lillian Waters",
+      "farmer": "Lillian Waters",
       "collectionSize": "195",
       "collectionDate": "2021-06-31T09:19:53"
     },
     {
       "collectionCode": "QW-12AAB22",
-      "patient": "Lela Shah",
+      "farmer": "Lela Shah",
       "collectionSize": "73",
       "collectionDate": "2023-04-29T07:19:53"
     },
     {
       "collectionCode": "23333AA",
-      "patient": "Tyron Ellison",
+      "farmer": "Tyron Ellison",
       "collectionSize": "92",
       "collectionDate": "2023-01-31T07:19:53"
     },
     {
       "collectionCode": "122AQP2",
-      "patient": "Joshua Boone",
+      "farmer": "Joshua Boone",
       "collectionSize": "100",
       "collectionDate": "2023-04-31T07:19:53"
     }
