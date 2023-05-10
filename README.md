@@ -19,4 +19,5 @@ Treat the project as if it would go in production when you are done. So please m
 If there are any points that are not clear from this task, you can make assumptions. Assumption that are vital to the understanding of the solution can be written down in an .md file.
 
 Handing in
+
 Please do all the work in a branch develop, and open a Pull request from develop to main when you are done.
