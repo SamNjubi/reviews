@@ -1,5 +1,5 @@
 Create a new simple Angular 2+ application. This application should include one page with a search input field and a table with collections for farmers. 
-The search input can be used to filter collections by farmer name.
+The search input can be used to filter collections by collection code.
 
 To reduce load on the API, the front-end should wait for the user to stop typing before making an API request.
 
