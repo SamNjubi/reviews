@@ -1,10 +1,13 @@
-Create a new simple Angular 2+ application. This application should include one page with a search input field and a table with collections for farmers. 
-The search input can be used to filter collections by collection code.
+Create a new simple Angular 2+ application. 
+This application should include two pages 
+ a. Page one - A search input field and a table with collections for farmers. 
+ b. Page two - A chart page showing the collections over a period of time.
 
 To reduce load on the API, the front-end should wait for the user to stop typing before making an API request.
 
 Collections must be retrieved by using fake REST API (https://github.com/typicode/json-server). You can find db.json file in the repository.
 
+The search input can be used to filter collections by collection code.
 Search field validation:
 
 Collection code must include at least three identical letters, regardless of order. i.e. collection codes "aaa", "aa2a" and "zz222z" are valid, while "aabbcc" is not.
